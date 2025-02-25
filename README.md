@@ -21,9 +21,7 @@ I am a **data scientist and AI engineer** with experience in **feature engineeri
 
 ## 📂 Project Structure
 
-
 - Each competition has its own **folder** with notebooks, model files, and results.  
-- `requirements.txt` contains necessary dependencies for the projects.  
 
 ## 🏆 Notable Kaggle Competitions
 
